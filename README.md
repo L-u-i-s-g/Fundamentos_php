@@ -18,7 +18,7 @@ Iniciar el servidor de desarrollo de PHP en el directorio del proyecto.
 
 Abrir un navegador web.
 
-Ingresar la dirección http://localhost:8000 en la barra de búsqueda.
+Ingresar la dirección http:// en la barra de búsqueda.
 
 Verificar que la página muestre correctamente el mensaje "Hola Mundo" junto con la imagen.
 
